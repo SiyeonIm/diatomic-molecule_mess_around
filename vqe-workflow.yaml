@@ -5,7 +5,7 @@ resources:
 - name: diatomic-molecule
   type: git
   parameters:
-    url: “git@github.com:SiyeonIm/diatomic-molecule_mess_around.git”
+    url: "git@github.com:SiyeonIm/diatomic-molecule_mess_around.git"
     branch: "master"
 - name: z-quantum-core
   type: git
